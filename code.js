@@ -1,11 +1,11 @@
 // Код для кликабельности названий пунктов меню
 // Пункт "О нас"
-$("[href = '#submenu:about']").click(function() {document.location="/aboutus"})
+$("[href = '#submenu:about']").click(function() {document.location="/aboutus"});
 // Пункт "Образование"
-$("[href = '#submenu:study']").click(function() {document.location="/education"})
+$("[href = '#submenu:study']").click(function() {document.location="/education"});
 // Пункт "Охрана труда"
-$("[href = '#submenu:safe']").click(function() {document.location="/healthsafety"})
+$("[href = '#submenu:safe']").click(function() {document.location="/healthsafety"});
 // Пункт "Лабораторные исследования"
-$("[href = '#submenu:lab']").click(function() {document.location="/labsresearches"})
+$("[href = '#submenu:lab']").click(function() {document.location="/labsresearches"});
 // Пункт "Информация"
-$("[href = '#submenu:info']").click(function() {document.location="/info"})
+$("[href = '#submenu:info']").click(function() {document.location="/info"});
